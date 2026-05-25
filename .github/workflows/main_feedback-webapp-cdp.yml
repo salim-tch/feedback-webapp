@@ -62,4 +62,5 @@ jobs:
           app-name: 'feedback-webapp-cdp'
           slot-name: 'Production'
           package: .
+          startup-command: 'node app.js'
           
